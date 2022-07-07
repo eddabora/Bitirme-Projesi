@@ -1,0 +1,3 @@
+com\example\WeatherProject\Entity\Weather.class
+com\example\WeatherProject\Service\IWeatherService.class
+com\example\WeatherProject\Service\WeatherServiceImpl.class
